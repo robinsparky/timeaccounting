@@ -1,0 +1,38 @@
+{
+  "name": "timeaccounting",
+  "version": "1.0.1",
+  "description": "Simple Project and Time Accounting System",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamBrodzinski/meteor-react-boilerplate.git"
+  },
+  "author": "Robin Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamBrodzinski/meteor-react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/AdamBrodzinski/meteor-react-boilerplate",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "classnames": "^2.2.5",
+    "history": "^3.3.0",
+    "prop-types": "^15.5.0",
+    "react": "^15.5.4",
+    "react-addons-pure-render-mixin": "^15.6.0",
+    "react-dom": "^15.5.4",
+    "react-mounter": "^1.2.0",
+    "react-prop-types": "^0.4.0",
+    "react-router-dom": "^4.1.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "time",
+    "project",
+    "management",
+    "accounting"
+  ]
+}
